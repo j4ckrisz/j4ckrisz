@@ -3,11 +3,11 @@
 </p>
 
 
-- 📝 I regularly write articles on [https://hackzzz.gitbook.io/](https://hackzzz.gitbook.io/)
+- 📝 I regularly write articles on [https://hackzzz.gitbook.io/](https://hackzzz.gitbook.io/hackzzz/welcome/hackzzz)
 
 - 📫 How to reach me **j4cky.contact@protonmail.com**
 
-- ⚡ Fun fact **I'm a Geek of Cybersecurity and Computer Science**
+- ⚡ Fun fact **Geek of Cybersecurity and Computer Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
