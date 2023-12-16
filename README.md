@@ -3,7 +3,7 @@
 </p>
 
 
-- 📝 I regularly write articles on [https://hackzzz.gitbook.io/](https://hackzzz.gitbook.io/hackzzz/welcome/hackzzz)
+- 📝 I regularly write articles on [https://j4ckris1337.github.io](https://j4ckris1337.github.io)
 
 - 📫 How to reach me **j4cky.contact@protonmail.com**
 
