@@ -5,13 +5,9 @@
 
 - 📝 I regularly write articles on [https://j4ckris1337.github.io](https://j4ckris1337.github.io)
 
-- 📫 How to reach me **j4cky.contact@protonmail.com**
-
-- ⚡ Fun fact **Geek of Cybersecurity and Computer Science**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/j4ckriss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j4ckriss" height="30" width="40" /></a>
+<a href="https://instagram.com/j4ckris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j4ckriss" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/j4ckris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="j4ckris" height="30" width="40" /></a>
 </p>
 
