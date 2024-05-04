@@ -3,7 +3,7 @@
 </p>
 
 
-- 📝 I regularly write articles on [https://j4ckris1337.github.io](https://j4ckris1337.github.io)
+- 📝 I regularly write articles on [https://j4ckrisz.github.io](https://j4ckrisz.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
