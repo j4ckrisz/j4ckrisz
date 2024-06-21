@@ -2,9 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+I'm+J4ckris;CTF+Player+%7C+Cybersecurity+Researcher " alt="Typing SVG" /></a>
 </p>
 
-
-- 📝 I regularly write articles on [https://j4ckrisz.github.io](https://j4ckrisz.github.io)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/j4ckris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j4ckriss" height="30" width="40" /></a>
