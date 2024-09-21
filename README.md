@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Pentesting, Reverse Engineering, Digital Forensics, Python, Bash, and Arduino**
 
-- 📫 How to reach me **j4ckyy.contact@gmail.com**
+- 📫 How to reach me **bryanlopezzzx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
