@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+I'm+J4ckris " alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">A passionate Computer Science hobbyist that likes to code and do CyberSecurity CTF's</h3>
+<h3 align="center">A passionate Computer Engineering hobbyist that likes to code and do CyberSecurity CTF's</h3>
 
 - 🌱 I’m currently learning **Astro Framework, Web development and Blockchain**
 
