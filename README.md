@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Computer Engineering hobbyist that likes to code and do CyberSecurity CTF's</h3>
 
-- 🌱 I’m currently learning **Astro Framework, Web development and Blockchain**
+- 🌱 I’m currently learning **Astro Framework, Web development**
 
 - 💬 Ask me about **Pentesting, Reverse Engineering, Digital Forensics, Python, Bash, and Arduino**
 
