@@ -4,11 +4,11 @@
 
 <h3 align="center">A passionate Computer Engineering hobbyist that likes to code and do CyberSecurity CTF's</h3>
 
-- 🌱 I’m currently learning **Astro Framework and Web development**
+- 🌱 I’m currently learning **Pentesting and Programming**
 
 - 💬 Ask me about **Pentesting, Reverse Engineering, Digital Forensics, Python, Bash, and Arduino**
 
-- 📫 How to reach me **bryanlopezzzx@gmail.com**
+- 📫 How to reach me **bryanloop3zz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
