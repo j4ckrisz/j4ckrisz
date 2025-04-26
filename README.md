@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Pentesting and Programming**
 
-- 💬 Ask me about **Pentesting, Reverse Engineering, Digital Forensics, Python, Bash, and Arduino**
+- 💬 Ask me about **Pentesting, Python, Bash, and Arduino**
 
 - 📫 How to reach me **bryanloop3zz@gmail.com**
 
