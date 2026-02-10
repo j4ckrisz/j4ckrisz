@@ -22,14 +22,3 @@ I’m currently developing my skills in:
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-white?style=for-the-badge&logo=tryhackme&logoColor=red)
 ---
-
-
-## 🐞 Responsible Disclosures  
-
-| Program / Target | Platform  | Type  | Severity | Status     |
-|------------------|-----------|-------|----------|------------|
-| JetBlue          | HackerOne | Info Disclosure | Low      | Informative |
-| JetBlue          | HackerOne | Enumeration / Info Leak | Medium | Duplicate |
-
-> All reports submitted under Responsible Disclosure programs.  
-> I continue learning through ethical testing, research, and improving my methodology.
